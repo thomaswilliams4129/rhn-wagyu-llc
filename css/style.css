@@ -41,3 +41,7 @@ h1, h4 {
 .socialmedia {
     margin-top: 20px;
 }
+
+.row {
+   border-bottom: 1px solid rgb(55, 54, 54);; 
+}
