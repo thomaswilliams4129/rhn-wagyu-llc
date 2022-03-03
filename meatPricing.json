@@ -1,0 +1,158 @@
+[
+    {
+        "Cut": "Groud Beef",
+        "AverageSizePerCut": "1.00 lbs.",
+        "PricePerLbs": "$12.00"
+    },
+    {
+        "Cut": "Ribeye Steak Boneless",
+        "AverageSizePerCut": "1.00 lbs.",
+        "PricePerLbs": "$72.00"
+    },
+    {
+        "Cut": "NY Strip Boneless",
+        "AverageSizePerCut": "0.90 lbs.",
+        "PricePerLbs": "$75.00"
+    },
+    {
+        "Cut": "Filet",
+        "AverageSizePerCut": "0.50 lbs.",
+        "PricePerLbs": "$80.00"
+    },
+    {
+        "Cut": "Flat Iron Steak",
+        "AverageSizePerCut": "1.25 lbs.",
+        "PricePerLbs": "$30.52"
+    },
+    {
+        "Cut": "Denver Steaks",
+        "AverageSizePerCut": "0.70 lbs.",
+        "PricePerLbs": "$50.00"
+    },
+    {
+        "Cut": "Sirloin Steak",
+        "AverageSizePerCut": "1.37 lbs.",
+        "PricePerLbs": "$36.50"
+    },
+    {
+        "Cut": "Top Round Steak",
+        "AverageSizePerCut": "1.36 lbs.",
+        "PricePerLbs": "$14.29"
+    },
+    {
+        "Cut": "Bottom Round Steak",
+        "AverageSizePerCut": "1.36 lbs.",
+        "PricePerLbs": "$21.69"
+    },
+    {
+        "Cut": "Brisket",
+        "AverageSizePerCut": "8.29 lbs.",
+        "PricePerLbs": "$13.51"
+    },
+    {
+        "Cut": "Round Eye Steak",
+        "AverageSizePerCut": "0.50 lbs.",
+        "PricePerLbs": "$30.00"
+    },
+    {
+        "Cut": "Picanha Steak",
+        "AverageSizePerCut": "4.15 lbs.",
+        "PricePerLbs": "$21.69"
+    },
+    {
+        "Cut": "Flank Steak",
+        "AverageSizePerCut": "2.30 lbs.",
+        "PricePerLbs": "$21.74"
+    },
+    {
+        "Cut": "Skirt Steak",
+        "AverageSizePerCut": "3.22 lbs.",
+        "PricePerLbs": "$13.98"
+    },
+    {
+        "Cut": "Shoulder Steak",
+        "AverageSizePerCut": "1.75 lbs.",
+        "PricePerLbs": "$17.14"
+    },
+    {
+        "Cut": "Back Rib",
+        "AverageSizePerCut": "4.62 lbs.",
+        "PricePerLbs": "$25.97"
+    },
+    {
+        "Cut": "Short Rib",
+        "AverageSizePerCut": "2.45 lbs.",
+        "PricePerLbs": "$9.39"
+    },
+    {
+        "Cut": "Chuck Eye Steak",
+        "AverageSizePerCut": "0.52 lbs.",
+        "PricePerLbs": "$67.31"
+    },
+    {
+        "Cut": "Inside Skirt Steak",
+        "AverageSizePerCut": "1.55 lbs.",
+        "PricePerLbs": "$19.35"
+    },
+    {
+        "Cut": "Hanging Tender Steak",
+        "AverageSizePerCut": "0.58 lbs.",
+        "PricePerLbs": "$51.72"
+    },
+    {
+        "Cut": "Tri Tip",
+        "AverageSizePerCut": "3.50 lbs.",
+        "PricePerLbs": "$18.57"
+    },
+    {
+        "Cut": "Tender Tail",
+        "AverageSizePerCut": "0.86 lbs.",
+        "PricePerLbs": "$34.88"
+    },
+    {
+        "Cut": "Ox Tail",
+        "AverageSizePerCut": "1.98 lbs.",
+        "PricePerLbs": "$10.10"
+    },
+    {
+        "Cut": "Liver",
+        "AverageSizePerCut": "2.35 lbs.",
+        "PricePerLbs": "$6.38"
+    },
+    {
+        "Cut": "Tongue",
+        "AverageSizePerCut": "2.50 lbs.",
+        "PricePerLbs": "$8.00"
+    },
+    {
+        "Cut": "Heart",
+        "AverageSizePerCut": "2.70 lbs.",
+        "PricePerLbs": "$5.56"
+    },
+    {
+        "Cut": "Kidney",
+        "AverageSizePerCut": "1.80 lbs.",
+        "PricePerLbs": "$5.56"
+    },
+    {
+        "Cut": "Soup Bones",
+        "AverageSizePerCut": "2.80 lbs.",
+        "PricePerLbs": "$7.14"
+    },
+    {
+        "Cut": "Neck Bones",
+        "AverageSizePerCut": "1.68 lbs.",
+        "PricePerLbs": "$8.93"
+    },
+    {
+        "Cut": "Wagyu Fat",
+        "AverageSizePerCut": "1.00 lbs.",
+        "PricePerLbs": "$20.00"
+    },
+    {
+        "Cut": "Stew Meat",
+        "AverageSizePerCut": "1.00 lbs.",
+        "PricePerLbs": "$20.00"
+    }
+
+]

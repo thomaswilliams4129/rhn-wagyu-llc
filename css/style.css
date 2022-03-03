@@ -8,7 +8,7 @@
     src: url(CAVOLINI.ttf);
 } */
 
-h1 {
+h1, h4 {
     font-family: mainFont;
 }
 
@@ -20,4 +20,24 @@ h1 {
 
 .pricingTable {
     font-family: Cavolini;
+}
+
+.socialLink {
+    text-decoration: none;
+    color: inherit;
+}
+
+.socials {
+    text-align: center;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.socials li{
+    text-align: center;
+    font-size: large;
+}
+
+.socialmedia {
+    margin-top: 20px;
 }
